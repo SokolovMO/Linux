@@ -169,7 +169,9 @@ echo ". ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 sudo apt update && sudo apt upgrade
 ```
 
-## установка nautilus (открывать папки и файлы как админ)
+## донастройка linux
+
+### установка nautilus (открывать папки и файлы как админ)
 
 ```bash
 sudo apt install -y nautilus-admin
@@ -183,7 +185,7 @@ nautilus -q
 sudo apt update && sudo apt upgrade
 ```
 
-## установка ssh
+### установка ssh
 
 ```bash
 sudo apt-get install ssh
@@ -197,13 +199,13 @@ sudo apt install openssh-server
 sudo apt update && sudo apt upgrade
 ```
 
-## расширенные настройки системы
+### расширенные настройки системы
 
 ```bash
 sudo apt-get install gnome-tweaks
 ```
 
-## установка speedtest
+### установка speedtest
 
 ```bash
 sudo apt-get install python3-pip
@@ -221,7 +223,7 @@ speedtest
 sudo apt update && sudo apt upgrade
 ```
 
-## установка cmatrix
+### установка cmatrix
 
 ```bash
 sudo apt install cmatrix
@@ -235,8 +237,8 @@ cmatrix
 sudo apt update && sudo apt upgrade
 ```
 
-## настройка linux
+### включение гибернации в linux
 
-> [включение гибернации в linux](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
+> [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
 
