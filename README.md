@@ -261,3 +261,12 @@ sudo apt update && sudo apt upgrade
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
+### отсюда рекомендуется качать телегу
+
+[ссылка на сайт](https://desktop.telegram.org/?setln=ru)
+
+
+
+
+
+
