@@ -32,6 +32,26 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ```
 
 ```bash
+git clone https://github.com/powerline/fonts.git
+```bash
+
+```bash
+cd fonts
+```
+
+```bash
+./install.sh
+```
+
+```bash
+cd
+```
+
+```bash
+rm -r fonts
+```
+
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
@@ -240,5 +260,4 @@ sudo apt update && sudo apt upgrade
 ### включение гибернации в linux
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
-
 
