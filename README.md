@@ -197,6 +197,12 @@ sudo apt install openssh-server
 sudo apt update && sudo apt upgrade
 ```
 
+## расширенные настройки системы
+
+```bash
+sudo apt-get install gnome-tweaks
+```
+
 ## установка speedtest
 
 ```bash
