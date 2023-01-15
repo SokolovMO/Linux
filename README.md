@@ -85,6 +85,10 @@ rosdep update
 sudo apt install python-is-python3
 ```
 
+```bash
+sudo apt update && sudo apt upgrade
+```
+
 ### установка нужных пакетов для ROS
 
 ```bash
@@ -113,6 +117,10 @@ sudo apt-get install ros-noetic-map-server
 
 ```bash
 sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
+```
+
+```bash
+sudo apt update && sudo apt upgrade
 ```
 
 ### установка turtle-bot (пакеты для catkin_ws)
@@ -217,6 +225,6 @@ sudo apt install cmatrix
 cmatrix
 ```
 
-
-
-
+```bash
+sudo apt update && sudo apt upgrade
+```
