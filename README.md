@@ -239,6 +239,6 @@ sudo apt update && sudo apt upgrade
 
 ### включение гибернации в linux
 
-> [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
+[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
 
