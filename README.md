@@ -279,9 +279,15 @@ cmatrix
 sudo apt update && sudo apt upgrade
 ```
 
-### включение гибернации в linux
+### делу время - потехе час! (устанавливаем steam)
 
-[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
+```bash
+sudo apt install steam
+```
+
+```bash
+sudo apt update && sudo apt upgrade
+```
 
 ### отсюда рекомендуется качать телегу
 
@@ -290,5 +296,9 @@ sudo apt update && sudo apt upgrade
 ### тут можно качнуть UI-версию github-desktop
 [ссылка на реп](https://github.com/shiftkey/desktop/releases)
 
+## далее делаем при БОЛЬШОМ желании
 
+### включение гибернации в linux
+
+[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
