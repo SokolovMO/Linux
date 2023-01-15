@@ -7,12 +7,18 @@ cd
 ```
 
 ```bash
+sudo apt install apt-transport-https
+```
+
+```bash
 sudo apt install git
 ```
 
 ```bash
 sudo apt update && sudo apt upgrade
 ```
+
+[также можно качнуть UI-версию github-desktop](https://github.com/shiftkey/desktop/releases)
 
 ## установка ohmyzsh
 
@@ -189,6 +195,20 @@ echo ". ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 sudo apt update && sudo apt upgrade
 ```
 
+### установка vscode
+
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install code
+```
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
 ## донастройка linux
 
 ### установка nautilus (открывать папки и файлы как админ)
@@ -213,6 +233,10 @@ sudo apt-get install ssh
 
 ```bash
 sudo apt install openssh-server
+```
+
+```bash
+sudo apt install net-tools
 ```
 
 ```bash
