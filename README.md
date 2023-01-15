@@ -18,8 +18,6 @@ sudo apt install git
 sudo apt update && sudo apt upgrade
 ```
 
-[также можно качнуть UI-версию github-desktop](https://github.com/shiftkey/desktop/releases)
-
 ## установка ohmyzsh
 
 ```bash
@@ -289,8 +287,8 @@ sudo apt update && sudo apt upgrade
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
 
-
-
+### тут можно качнуть UI-версию github-desktop
+[ссылка на реп](https://github.com/shiftkey/desktop/releases)
 
 
 
