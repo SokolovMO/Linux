@@ -148,6 +148,10 @@ sudo apt-get install ros-noetic-joy
 ```
 
 ```bash
+sudo apt-get install libspnav-dev
+```
+
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
