@@ -302,3 +302,8 @@ sudo apt update && sudo apt upgrade
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
+### работа с dualshock4
+
+[драйвер ds4drv](https://github.com/chrippa/ds4drv)
+
+[установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
