@@ -147,6 +147,10 @@ sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
 sudo apt update && sudo apt upgrade
 ```
 
+```bash
+sudo apt-get install ros-noetic-joy
+```
+
 ### установка turtle-bot (пакеты для catkin_ws)
 
 ```bash
