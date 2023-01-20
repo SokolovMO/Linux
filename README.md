@@ -310,8 +310,55 @@ sudo apt update && sudo apt upgrade
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
-### работа с dualshock4
+### работа с dualshock4 и другими геймпадами
 
 [драйвер ds4drv](https://github.com/chrippa/ds4drv)
 
 [установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
+
+### tmux
+
+```bash
+sudo apt install tmux
+```
+
+[мужик объясняет базу](https://www.youtube.com/watch?v=1Y2CD4WnbP0)
+[первый сайтик со шпаргалкой](https://habr.com/ru/post/327630/)
+[второй сайтик со шпаргалкой](https://1cloud.ru/help/linux/tmux_help)
+
+
+* создаем конфиг-файл
+
+```bash
+touch ~/.tmux.conf
+```
+
+* назначаем комбинацию CTRL + q как командную
+
+```bash
+echo "set-option -g prefix C-q" >> ~/.tmux.conf
+```
+
+* делаем возможным масштабировать терминалы мышкой
+
+```bash
+echo "set -g mouse on" >> ~/.tmux.conf
+```
+
+запуск новой сессии под названием "first"
+
+```bash
+tmux new-session -s first
+```
+
+подключение к сессии под названием "first"
+
+```bash
+tmux attach -t first
+```
+
+управление происходит сочетаниями клавиш CTRL + b(по умолчанию) + команда  
+
+* Shift + 5 - деление онка пополам по вертикали
+
+* Shift + э - деление онка пополам по горизонтали
