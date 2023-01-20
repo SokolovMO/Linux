@@ -464,3 +464,7 @@ tmux attach -t first
 * Shift + 5 - деление онка пополам по вертикали
 
 * Shift + э - деление онка пополам по горизонтали
+
+### заметки
+
+sudo apt install xpad
