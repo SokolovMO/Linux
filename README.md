@@ -469,7 +469,7 @@ tmux attach -t first
 
 sudo apt install xpad
 
-### тур-хоткеи
+### топ-хоткеи
 
 ---
 
