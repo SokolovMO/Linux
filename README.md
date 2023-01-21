@@ -37,7 +37,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 ```bash
 git clone https://github.com/powerline/fonts.git
-```bash
+```
 
 ```bash
 cd fonts
