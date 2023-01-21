@@ -94,10 +94,6 @@ sudo apt install python3-rosdep
 ```
 
 ```bash
-sudo apt install python3-rosdep
-```
-
-```bash
 sudo rosdep init
 ```
 
