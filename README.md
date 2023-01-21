@@ -192,7 +192,7 @@ cd
 ```
 
 ```bash
-echo ". ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
+echo "source ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 ```
 
 ```bash
