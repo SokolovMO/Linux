@@ -177,6 +177,8 @@ git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git -b noetic-de
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git -b noetic-devel
 ```
 
+* на этом шаге рекомендуется перезагрузка компьютера
+
 ```bash
 cd ~/catkin_ws
 ```
