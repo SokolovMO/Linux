@@ -16,7 +16,7 @@ sudo apt install git
 sudo apt update && sudo apt upgrade
 ```
 
-## установка ohmyzsh
+# установка ohmyzsh
 
 ```bash
 cd
@@ -57,7 +57,7 @@ rm -r fonts
 sudo apt update && sudo apt upgrade
 ```
 
-## установка ROS
+# установка ROS
 
 ```bash
 cd
@@ -107,7 +107,7 @@ sudo apt install python-is-python3
 sudo apt update && sudo apt upgrade
 ```
 
-### установка нужных пакетов для ROS
+## установка нужных пакетов для ROS
 
 ```bash
 cd
@@ -149,7 +149,7 @@ sudo apt-get install libspnav-dev
 sudo apt update && sudo apt upgrade
 ```
 
-### установка turtle-bot (пакеты для catkin_ws)
+## установка turtle-bot (пакеты для catkin_ws)
 
 ```bash
 cd
@@ -195,9 +195,7 @@ echo "source ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 sudo apt update && sudo apt upgrade
 ```
 
-
-
-### установка nautilus (открывать папки и файлы как админ)
+# установка nautilus (открывать папки и файлы как админ)
 
 ```bash
 sudo apt install -y nautilus-admin
@@ -211,7 +209,7 @@ nautilus -q
 sudo apt update && sudo apt upgrade
 ```
 
-### установка ssh
+# установка ssh
 
 ```bash
 sudo apt-get install ssh
@@ -229,13 +227,13 @@ sudo apt install net-tools
 sudo apt update && sudo apt upgrade
 ```
 
-### расширенные настройки системы
+# расширенные настройки системы
 
 ```bash
 sudo apt-get install gnome-tweaks
 ```
 
-### установка speedtest
+# установка speedtest
 
 ```bash
 sudo apt-get install python3-pip
@@ -253,7 +251,7 @@ speedtest
 sudo apt update && sudo apt upgrade
 ```
 
-### установка cmatrix
+# установка cmatrix
 
 ```bash
 sudo apt install cmatrix
@@ -267,7 +265,7 @@ cmatrix
 sudo apt update && sudo apt upgrade
 ```
 
-### делу время - потехе час! (устанавливаем steam)
+# делу время - потехе час! (устанавливаем steam)
 
 ```bash
 sudo apt install steam
@@ -277,18 +275,18 @@ sudo apt install steam
 sudo apt update && sudo apt upgrade
 ```
 
-### отсюда рекомендуется качать телегу
+# отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
 
-### отсюда рекомендуется качать VS Code
+# отсюда рекомендуется качать VS Code
 
 [ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
 
-### тут можно качнуть UI-версию github-desktop
+# тут можно качнуть UI-версию github-desktop
 [ссылка на реп](https://github.com/shiftkey/desktop/releases)
 
-### терминальный мультиплексор tmux
+# терминальный мультиплексор tmux
 
 ```bash
 sudo apt install tmux
