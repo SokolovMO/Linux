@@ -309,3 +309,13 @@ echo "set-option -g prefix C-q" >> ~/.tmux.conf
 ```bash
 echo "set -g mouse on" >> ~/.tmux.conf
 ```
+
+# включение гибернации в linux
+
+[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
+
+# работа с dualshock4 и другими геймпадами
+
+[драйвер ds4drv](https://github.com/chrippa/ds4drv)
+
+[установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
