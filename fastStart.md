@@ -284,7 +284,7 @@ sudo apt update && sudo apt upgrade
 [ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
 
 # тут можно качнуть UI-версию github-desktop
-[ссылка на реп](https://github.com/shiftkey/desktop/releases)
+[ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
 
 # терминальный мультиплексор tmux
 
@@ -311,6 +311,8 @@ echo "set -g mouse on" >> ~/.tmux.conf
 ```
 
 # включение гибернации в linux
+
+[проверить размер swap-файла (если он меньше оперативы - надо делать размером с нее)](https://andreyex.ru/ubuntu/kak-uvelichit-razmer-swap-v-ubuntu/)
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
 
