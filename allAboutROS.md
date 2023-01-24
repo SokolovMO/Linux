@@ -237,3 +237,11 @@ rviz
 ```bash
 rosrun map_server map_saver -f MY_SUPER_MAP_NAME
 ```
+
+---
+
+изменение параметров в реальном времени (не все параметры возможно менять)
+
+```bash
+rosrun rqt_reconfigure rqt_reconfigure
+```
