@@ -321,3 +321,27 @@ echo "set -g mouse on" >> ~/.tmux.conf
 [драйвер ds4drv](https://github.com/chrippa/ds4drv)
 
 [установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
+
+# расширения
+
+## включение жестов
+
+[в видосе чувак подсказывает](https://www.youtube.com/watch?v=81k9rARXW4Q)
+
+```bash
+sudo add-apt-repository ppa:touchegg/stable
+```
+
+```bash
+sudo apt install touchegg
+```
+
+```bash
+systemctl status touchegg.service && systemctl start touchegg.service
+```
+
+```bash
+sudo apt install flatpak
+```
+
+## simple system monitor
