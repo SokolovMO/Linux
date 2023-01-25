@@ -344,4 +344,8 @@ systemctl status touchegg.service && systemctl start touchegg.service
 sudo apt install flatpak
 ```
 
+```bash
+sudo apt install gnome-software-plugin-flatpak
+```
+
 ## simple system monitor
