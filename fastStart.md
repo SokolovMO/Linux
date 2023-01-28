@@ -432,7 +432,17 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/shellConfig/2.png">
 </p>
 
+<p align="center">
+<img src="screenshots/shellConfig/3.png">
+</p>
+
 ## User Themes
+
+[ссылка на тему](https://github.com/vinceliuice/Orchis-theme)
+
+<p align="center">
+<img src="screenshots/theme.png">
+</p>
 
 ## Vitals
 
