@@ -352,8 +352,62 @@ sudo apt install gnome-software-plugin-flatpak
 sudo apt install gnome-shell-extension-manager
 ```
 
-## simple system monitor
+# расширения
 
-## public IP
+## Dash to Dock
 
-## X11 Gestures
+<p align="center">
+<img src="screenshots/dashToDock/1.png">
+</p>
+
+<p align="center">
+<img src="screenshots/dashToDock/2.png">
+</p>
+
+<p align="center">
+<img src="screenshots/dashToDock/3.png">
+</p>
+
+<p align="center">
+<img src="screenshots/dashToDock/4.png">
+</p>
+
+## Public IP
+
+<p align="center">
+<img src="screenshots/publicIP/1.png">
+</p>
+
+## Shell Configuration
+
+<p align="center">
+<img src="screenshots/shellConfig/1.png">
+</p>
+
+<p align="center">
+<img src="screenshots/shellConfig/2.png">
+</p>
+
+<p align="center">
+<img src="screenshots/shellConfig/3.png">
+</p>
+
+<p align="center">
+<img src="screenshots/shellConfig/4.png">
+</p>
+
+<p align="center">
+<img src="screenshots/shellConfig/5.png">
+</p>
+
+## Simple System Monitor
+
+<p align="center">
+<img src="screenshots/simpleSystemMonitor/1.png">
+</p>
+
+## X11 Gestures (возможно и не нужен, надо проверять будет ли жесты)
+
+<p align="center">
+<img src="screenshots/X11/1.png">
+</p>
