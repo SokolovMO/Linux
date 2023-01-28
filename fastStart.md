@@ -432,6 +432,8 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/shellConfig/2.png">
 </p>
 
+## User Themes
+
 ## Vitals
 
 <p align="center">
