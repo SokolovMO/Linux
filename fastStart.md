@@ -348,4 +348,12 @@ sudo apt install flatpak
 sudo apt install gnome-software-plugin-flatpak
 ```
 
+```bash
+sudo apt install gnome-shell-extension-manager
+```
+
 ## simple system monitor
+
+## public IP
+
+## X11 Gestures
