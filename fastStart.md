@@ -408,6 +408,14 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/openWeather/4.png">
 </p>
 
+<p align="center">
+<img src="screenshots/openWeather/5.png">
+</p>
+
+<p align="center">
+<img src="screenshots/openWeather/6.png">
+</p>
+
 ## Public IP
 
 <p align="center">
