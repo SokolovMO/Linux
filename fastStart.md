@@ -354,6 +354,18 @@ sudo apt install gnome-shell-extension-manager
 
 # расширения
 
+## Burn My Windows
+
+<p align="center">
+<img src="screenshots/burnMyWindows/1.png">
+</p>
+
+## Clipboard Indicator
+
+<p align="center">
+<img src="screenshots/clipboardIndicator/1.png">
+</p>
+
 ## Dash to Dock
 
 <p align="center">
@@ -372,13 +384,37 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/dashToDock/4.png">
 </p>
 
+## Net speed Simplified
+
+<p align="center">
+<img src="screenshots/netSpeedSimplified/1.png">
+</p>
+
+## OpenWeather
+
+<p align="center">
+<img src="screenshots/openWeather/1.png">
+</p>
+
+<p align="center">
+<img src="screenshots/openWeather/2.png">
+</p>
+
+<p align="center">
+<img src="screenshots/openWeather/3.png">
+</p>
+
+<p align="center">
+<img src="screenshots/openWeather/4.png">
+</p>
+
 ## Public IP
 
 <p align="center">
 <img src="screenshots/publicIP/1.png">
 </p>
 
-## Shell Configuration
+## Shell Configurator
 
 <p align="center">
 <img src="screenshots/shellConfig/1.png">
@@ -388,25 +424,13 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/shellConfig/2.png">
 </p>
 
-<p align="center">
-<img src="screenshots/shellConfig/3.png">
-</p>
+## Vitals
 
 <p align="center">
-<img src="screenshots/shellConfig/4.png">
+<img src="screenshots/vitais/1.png">
 </p>
 
-<p align="center">
-<img src="screenshots/shellConfig/5.png">
-</p>
-
-## Simple System Monitor
-
-<p align="center">
-<img src="screenshots/simpleSystemMonitor/1.png">
-</p>
-
-## X11 Gestures (возможно и не нужен, надо проверять будет ли жесты)
+## X11 Gestures
 
 <p align="center">
 <img src="screenshots/X11/1.png">
