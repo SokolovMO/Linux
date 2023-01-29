@@ -366,7 +366,7 @@ sudo apt install gnome-shell-extension-manager
 <img src="screenshots/clipboardIndicator/1.png">
 </p>
 
-## Dash to Dock
+## Dash to Dock (может глючить)
 
 <p align="center">
 <img src="screenshots/dashToDock/1.png">
