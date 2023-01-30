@@ -322,6 +322,16 @@ echo "set -g mouse on" >> ~/.tmux.conf
 
 [установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
 
+# работа с C#
+
+[установка SDK](https://learn.microsoft.com/ru-ru/dotnet/core/install/linux-ubuntu#2004)
+
+# вывод структуры папок в консоль
+
+```bash
+sudo apt install tree
+```
+
 # расширения
 
 ## включение жестов
