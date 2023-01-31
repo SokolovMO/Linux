@@ -334,12 +334,6 @@ echo "set-option -g prefix C-q" >> ~/.tmux.conf
 echo "set -g mouse on" >> ~/.tmux.conf
 ```
 
-# включение гибернации в linux
-
-[проверить размер swap-файла (если он меньше оперативы - надо делать размером с нее)](https://andreyex.ru/ubuntu/kak-uvelichit-razmer-swap-v-ubuntu/)
-
-[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
-
 # работа с dualshock4 и другими геймпадами
 
 [драйвер ds4drv](https://github.com/chrippa/ds4drv)
@@ -481,3 +475,9 @@ flatpak install https://dl.flathub.org/repo/appstream/com.github.joseexposito.to
 <p align="center">
 <img src="screenshots/X11/1.png">
 </p>
+
+# включение гибернации в linux
+
+[проверить размер swap-файла (если он меньше оперативы - надо делать размером с нее)](https://andreyex.ru/ubuntu/kak-uvelichit-razmer-swap-v-ubuntu/)
+
+[ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
