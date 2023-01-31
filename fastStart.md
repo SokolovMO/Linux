@@ -350,6 +350,12 @@ echo "set -g mouse on" >> ~/.tmux.conf
 sudo apt install tree
 ```
 
+# управление процессами
+
+```bash
+sudo apt install htop
+```
+
 # расширения
 
 ## включение жестов
