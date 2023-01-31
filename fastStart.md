@@ -369,7 +369,19 @@ systemctl status touchegg.service && systemctl start touchegg.service
 ```
 
 ```bash
+sudo add-apt-repository ppa:flatpak/stable
+```
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
+```bash
 sudo apt install flatpak
+```
+
+```bash
+sudo apt install gnome-software-plugin-flatpak
 ```
 
 ```bash
