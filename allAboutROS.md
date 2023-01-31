@@ -1,7 +1,7 @@
 # установка ROS
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -51,7 +51,7 @@ sudo apt update && sudo apt upgrade
 # установка нужных пакетов для ROS
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash

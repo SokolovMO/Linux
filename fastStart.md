@@ -1,7 +1,31 @@
+# установка русского языка
+
+```bash
+cd ~
+```
+
+```bash
+sudo apt-get install language-pack-ru
+```
+
+```bash
+sudo apt-get install language-pack-gnome-ru
+```
+
+```bash
+sudo apt-get install language-pack-kde-ru
+```
+
+```bash
+sudo update-locale LANG=ru_RU.UTF-8
+```
+
+* далее перезагружаем комп и при запуске соглашаемся с переименованием папок
+
 # установка git
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -19,7 +43,7 @@ sudo apt update && sudo apt upgrade
 # установка ohmyzsh
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -46,7 +70,7 @@ cd fonts
 ```
 
 ```bash
-cd
+cd ..
 ```
 
 ```bash
@@ -60,7 +84,7 @@ sudo apt update && sudo apt upgrade
 # установка ROS
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -110,7 +134,7 @@ sudo apt update && sudo apt upgrade
 ## установка нужных пакетов для ROS
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -152,7 +176,7 @@ sudo apt update && sudo apt upgrade
 ## установка turtle-bot (пакеты для catkin_ws)
 
 ```bash
-cd
+cd ~
 ```
 
 ```bash
@@ -184,7 +208,7 @@ catkin_make
 ```
 
 ```bash
-cd
+cd ..
 ```
 
 ```bash
@@ -265,7 +289,7 @@ cmatrix
 sudo apt update && sudo apt upgrade
 ```
 
-# делу время - потехе час! (устанавливаем steam)
+# делу час - потехе время!
 
 ```bash
 sudo apt install steam
@@ -355,11 +379,7 @@ sudo apt install flatpak
 ```
 
 ```bash
-sudo apt install gnome-software-plugin-flatpak
-```
-
-```bash
-sudo apt install gnome-shell-extension-manager
+flatpak install https://dl.flathub.org/repo/appstream/com.github.joseexposito.touche.flatpakref
 ```
 
 # расширения
@@ -445,10 +465,6 @@ sudo apt install gnome-shell-extension-manager
 <p align="center">
 <img src="screenshots/shellConfig/3.png">
 </p>
-
-## User Themes
-
-[ссылка на тему](https://github.com/vinceliuice/Orchis-theme)
 
 <p align="center">
 <img src="screenshots/theme.png">
