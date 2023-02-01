@@ -299,17 +299,6 @@ sudo apt install steam
 sudo apt update && sudo apt upgrade
 ```
 
-# отсюда рекомендуется качать телегу
-
-[ссылка на сайт](https://desktop.telegram.org/?setln=ru)
-
-# отсюда рекомендуется качать VS Code
-
-[ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
-
-# тут можно качнуть UI-версию github-desktop
-[ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
-
 # терминальный мультиплексор tmux
 
 ```bash
@@ -338,7 +327,15 @@ echo "set -g mouse on" >> ~/.tmux.conf
 
 [драйвер ds4drv](https://github.com/chrippa/ds4drv)
 
+```bash
+sudo pip install ds4drv
+```
+
 [установка jstest-gtk (прога для проверки/настройки)](https://onstartup.ru/utility/jstest-gtk/)
+
+```bash
+sudo apt install jstest-gtk
+```
 
 # работа с C#
 
@@ -355,6 +352,17 @@ sudo apt install tree
 ```bash
 sudo apt install htop
 ```
+
+# отсюда рекомендуется качать телегу
+
+[ссылка на сайт](https://desktop.telegram.org/?setln=ru)
+
+# отсюда рекомендуется качать VS Code
+
+[ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
+
+# тут можно качнуть UI-версию github-desktop
+[ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
 
 # расширения
 
