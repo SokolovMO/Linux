@@ -360,8 +360,6 @@ sudo apt install htop
 
 ## включение жестов
 
-[в видосе чувак подсказывает](https://www.youtube.com/watch?v=81k9rARXW4Q)
-
 ```bash
 sudo add-apt-repository ppa:touchegg/stable
 ```
@@ -372,26 +370,6 @@ sudo apt install touchegg
 
 ```bash
 systemctl status touchegg.service && systemctl start touchegg.service
-```
-
-```bash
-sudo add-apt-repository ppa:flatpak/stable
-```
-
-```bash
-sudo apt update && sudo apt upgrade
-```
-
-```bash
-sudo apt install flatpak
-```
-
-```bash
-sudo apt install gnome-software-plugin-flatpak
-```
-
-```bash
-flatpak install https://dl.flathub.org/repo/appstream/com.github.joseexposito.touche.flatpakref
 ```
 
 # расширения
@@ -406,28 +384,6 @@ flatpak install https://dl.flathub.org/repo/appstream/com.github.joseexposito.to
 
 <p align="center">
 <img src="screenshots/clipboardIndicator/1.png">
-</p>
-
-## Dash to Dock (может глючить)
-
-<p align="center">
-<img src="screenshots/dashToDock/1.png">
-</p>
-
-<p align="center">
-<img src="screenshots/dashToDock/2.png">
-</p>
-
-<p align="center">
-<img src="screenshots/dashToDock/3.png">
-</p>
-
-<p align="center">
-<img src="screenshots/dashToDock/4.png">
-</p>
-
-<p align="center">
-<img src="screenshots/dashToDock/5.png">
 </p>
 
 ## Net speed Simplified
