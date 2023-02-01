@@ -426,6 +426,10 @@ flatpak install https://dl.flathub.org/repo/appstream/com.github.joseexposito.to
 <img src="screenshots/dashToDock/4.png">
 </p>
 
+<p align="center">
+<img src="screenshots/dashToDock/5.png">
+</p>
+
 ## Net speed Simplified
 
 <p align="center">
