@@ -416,6 +416,9 @@ systemctl status touchegg.service && systemctl start touchegg.service
 <img src="screenshots/openWeather/2.png">
 </p>
 
+`Saint-P`  
+`59.950185, 30.317480`  
+
 <p align="center">
 <img src="screenshots/openWeather/3.png">
 </p>
