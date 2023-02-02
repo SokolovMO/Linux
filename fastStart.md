@@ -455,10 +455,6 @@ systemctl status touchegg.service && systemctl start touchegg.service
 <img src="screenshots/shellConfig/3.png">
 </p>
 
-<p align="center">
-<img src="screenshots/theme.png">
-</p>
-
 ## Vitals
 
 <p align="center">
