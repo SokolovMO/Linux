@@ -20,7 +20,13 @@ sudo apt-get install language-pack-kde-ru
 sudo update-locale LANG=ru_RU.UTF-8
 ```
 
-* далее перезагружаем комп и при запуске соглашаемся с переименованием папок
+# установка драйверов для карт nvidia
+
+```bash
+sudo apt install nvidia-driver-515 nvidia-dkms-515
+```
+
+* далее перезагружаем комп и при запуске соглашаемся с переименованием папок и проверяем, что драйвер запустился командой `nvidia-smi`
 
 # установка git
 
