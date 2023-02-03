@@ -367,6 +367,12 @@ sudo apt install tree
 sudo apt install htop
 ```
 
+# запись видео фрагмента экрана
+
+```bash
+sudo apt install peek
+```
+
 # отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
