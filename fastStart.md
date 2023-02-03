@@ -430,6 +430,12 @@ systemctl status touchegg.service && systemctl start touchegg.service
 
 # расширения
 
+## Blur my Shell
+
+<p align="center">
+<img src="screenshots/blurMyShell/1.png">
+</p>
+
 ## Burn My Windows
 
 <p align="center">
