@@ -8,4 +8,6 @@
 
 ## [все о tmux](https://github.com/5met4nka/linuxFastStart/blob/main/allAboutTmux.md)
 
+## [все о matlab](https://github.com/5met4nka/linuxFastStart/blob/main/allAboutMatlab.md)
+
 ## [горячие клавиши](https://github.com/5met4nka/linuxFastStart/blob/main/hotKey.md)
