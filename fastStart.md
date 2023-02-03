@@ -378,6 +378,29 @@ sudo apt install peek
 ```bash
 sudo apt install totem
 ```
+
+# libreOffice
+
+```bash
+sudo apt install libreoffice-gnome libreoffice
+```
+
+## установка TNR
+
+```bash
+sudo apt-get install ttf-mscorefonts-installer
+```
+
+## русский язык и орфография
+
+```bash
+sudo apt-get install libreoffice-l10n-ru libreoffice-help-ru
+```
+
+```bash
+sudo apt-get install hunspell-ru
+```
+
 # отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
