@@ -373,6 +373,11 @@ sudo apt install htop
 sudo apt install peek
 ```
 
+# проигрывание видео
+
+```bash
+sudo apt install totem
+```
 # отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
