@@ -401,6 +401,12 @@ sudo apt-get install libreoffice-l10n-ru libreoffice-help-ru
 sudo apt-get install hunspell-ru
 ```
 
+## вебкамера
+
+```bash
+sudo apt install cheese
+```
+
 # отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
@@ -429,12 +435,6 @@ systemctl status touchegg.service && systemctl start touchegg.service
 ```
 
 # расширения
-
-## Blur my Shell
-
-<p align="center">
-<img src="screenshots/blurMyShell/1.png">
-</p>
 
 ## Burn My Windows
 
