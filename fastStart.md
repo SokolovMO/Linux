@@ -415,7 +415,7 @@ sudo apt install cheese
 
 [ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
 
-# тут можно качнуть UI-версию github-desktop
+# тут можно качнуть GUI-версию github-desktop
 [ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
 
 # расширения
