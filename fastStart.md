@@ -520,3 +520,5 @@ systemctl status touchegg.service && systemctl start touchegg.service
 [проверить размер swap-файла (если он меньше оперативы - надо делать размером с нее)](https://andreyex.ru/ubuntu/kak-uvelichit-razmer-swap-v-ubuntu/)
 
 [ссылка на статью](https://www.linuxuprising.com/2021/08/how-to-enable-hibernation-on-ubuntu.html)
+
+тест 1
