@@ -506,7 +506,7 @@ systemctl status touchegg.service && systemctl start touchegg.service
 ## Vitals
 
 <p align="center">
-<img src="screenshots/vitais/1.png">
+<img src="screenshots/vitais/1.png" width="600">
 </p>
 
 ## X11 Gestures
