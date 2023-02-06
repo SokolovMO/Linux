@@ -439,68 +439,68 @@ systemctl status touchegg.service && systemctl start touchegg.service
 ## Burn My Windows
 
 <p align="center">
-<img src="screenshots/burnMyWindows/1.png">
+<img src="screenshots/burnMyWindows/1.png" width="600">
 </p>
 
 ## Clipboard Indicator
 
 <p align="center">
-<img src="screenshots/clipboardIndicator/1.png">
+<img src="screenshots/clipboardIndicator/1.png" width="600">
 </p>
 
 ## Net speed Simplified
 
 <p align="center">
-<img src="screenshots/netSpeedSimplified/1.png">
+<img src="screenshots/netSpeedSimplified/1.png" width="600">
 </p>
 
 ## OpenWeather
 
 <p align="center">
-<img src="screenshots/openWeather/1.png">
+<img src="screenshots/openWeather/1.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/openWeather/2.png">
+<img src="screenshots/openWeather/2.png" width="600">
 </p>
 
 `Saint-P`  
 `59.950185, 30.317480`  
 
 <p align="center">
-<img src="screenshots/openWeather/3.png">
+<img src="screenshots/openWeather/3.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/openWeather/4.png">
+<img src="screenshots/openWeather/4.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/openWeather/5.png">
+<img src="screenshots/openWeather/5.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/openWeather/6.png">
+<img src="screenshots/openWeather/6.png" width="600">
 </p>
 
 ## Public IP
 
 <p align="center">
-<img src="screenshots/publicIP/1.png">
+<img src="screenshots/publicIP/1.png" width="600">
 </p>
 
 ## Shell Configurator
 
 <p align="center">
-<img src="screenshots/shellConfig/1.png">
+<img src="screenshots/shellConfig/1.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/shellConfig/2.png">
+<img src="screenshots/shellConfig/2.png" width="600">
 </p>
 
 <p align="center">
-<img src="screenshots/shellConfig/3.png">
+<img src="screenshots/shellConfig/3.png" width="600">
 </p>
 
 ## Vitals
