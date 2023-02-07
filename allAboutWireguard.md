@@ -27,12 +27,12 @@ touch wg0.conf
 ```
 * пишем в него
 
-[Interface]
-PrivateKey = <server_privatekey>
-Address = 10.0.0.1/24
-ListenPort = 51830
-PostUp = iptables -A FORWARD -i %i -j ACCEPT; iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
-PostDown = iptables -D FORWARD -i %i -j ACCEPT; iptables -t nat -D POSTROUTING -o eth0 -j MASQUERADE
+[Interface]  
+PrivateKey = <server_privatekey>  
+Address = 10.0.0.1/24  
+ListenPort = 51830  
+PostUp = iptables -A FORWARD -i %i -j ACCEPT; iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE  
+PostDown = iptables -D FORWARD -i %i -j ACCEPT; iptables -t nat -D POSTROUTING -o eth0 -j MASQUERADE  
 
 * включаем ip-форвардинг на сервере
 
@@ -74,9 +74,9 @@ wg keygen | tee /etc/wireguard/user1_privatekey | wg pubkey | tee /etc/wireguard
 
 * открываем `wg0.conf` и добавляем клиента
 
-[Peer]
-PublicKey = <user_publickey>
-AllowedIPs = 10.0.0.2/32
+[Peer]  
+PublicKey = <user_publickey>  
+AllowedIPs = 10.0.0.2/32  
 
 * после добавления клиента перезапускаем сервер
 
@@ -98,13 +98,13 @@ touch wg.conf
 
 * пишем в него
 
-[Interface]
-PrivateKey = <client_privatekey>
-Address = 10.0.0.2/32
-DNS = 8.8.8.8
+[Interface]  
+PrivateKey = <client_privatekey>  
+Address = 10.0.0.2/32  
+DNS = 8.8.8.8  
 
-[Peer]
-PublicKey = <server_publickey>
-Endpoint = <server-IP>:51830
-AllowedIPs = 0.0.0.0/0
-PersistentKeepalive = 20
+[Peer]  
+PublicKey = <server_publickey>  
+Endpoint = <server-IP>:51830  
+AllowedIPs = 0.0.0.0/0  
+PersistentKeepalive = 20  
