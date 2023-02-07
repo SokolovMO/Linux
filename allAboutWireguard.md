@@ -76,9 +76,11 @@ wg keygen | tee /etc/wireguard/user1_privatekey | wg pubkey | tee /etc/wireguard
 
 * открываем `wg0.conf` и добавляем клиента
 
+```bash
 [Peer]  
 PublicKey = <user_publickey>  
 AllowedIPs = 10.0.0.2/32  
+```
 
 * после добавления клиента перезапускаем сервер
 
@@ -100,6 +102,7 @@ touch wg.conf
 
 * пишем в него
 
+```bash
 [Interface]  
 PrivateKey = <client_privatekey>  
 Address = 10.0.0.2/32  
@@ -110,3 +113,4 @@ PublicKey = <server_publickey>
 Endpoint = <server-IP>:51830  
 AllowedIPs = 0.0.0.0/0  
 PersistentKeepalive = 20  
+```
