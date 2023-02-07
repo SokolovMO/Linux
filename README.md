@@ -12,4 +12,6 @@
 
 ## [все о matlab](https://github.com/5met4nka/linuxFastStart/blob/main/allAboutMatlab.md)
 
+## [все о wireguard](https://github.com/5met4nka/linuxFastStart/blob/main/allAboutWireguard.md)
+
 ## [горячие клавиши](https://github.com/5met4nka/linuxFastStart/blob/main/hotKey.md)
