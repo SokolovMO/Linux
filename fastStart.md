@@ -420,6 +420,9 @@ sudo apt install cheese
 # тут можно качнуть GUI-версию github-desktop
 [ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
 
+# тут можно качнуть discord
+[ссылка на сайт - выбираем .deb](https://discord.com/download)
+
 # расширения
 
 ## включение жестов
