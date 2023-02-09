@@ -511,11 +511,18 @@ systemctl status touchegg.service && systemctl start touchegg.service
 <img src="screenshots/vitais/1.png" width="600">
 </p>
 
+## WinTile
+
+<p align="center">
+<img src="screenshots/winTile/1.png" width="600">
+</p>
+
 ## X11 Gestures
 
 <p align="center">
 <img src="screenshots/X11/1.png" width="600">
 </p>
+
 
 # включение гибернации в linux
 
