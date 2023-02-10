@@ -138,6 +138,18 @@ sudo apt update && sudo apt upgrade
 
 # шпаргалка важных команды в ROS
 
+создание пакете в ROS
+
+```bash
+catkin_create_pkg [pkg_name] [dep1 dep2 ...]
+```
+
+например
+
+```bash
+catkin_create_pkg study_pkg rospy roscpp
+```
+
 список всех пакетов, что видет ROS
 
 ```bash
