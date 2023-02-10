@@ -526,6 +526,17 @@ systemctl status touchegg.service && systemctl start touchegg.service
 <img src="screenshots/X11/1.png" width="600">
 </p>
 
+## Dash to Dock
+
+<p align="center">
+<img src="screenshots/dashToDock/1.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/dashToDock/2.png" width="600">
+</p>
+
+* после этого удаляем расширение т.к. оно глючное и перезапускаем комп, у нас остается только красота
 
 # включение гибернации в linux
 
