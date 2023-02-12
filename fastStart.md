@@ -152,6 +152,10 @@ sudo apt install python-is-python3
 ```
 
 ```bash
+sudo apt install python3-catkin-tools
+```
+
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
