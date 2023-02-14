@@ -59,3 +59,14 @@ cd /usr/local/MATLAB/R2021a/bin
 ```bash
 sudo wg-quick down vpn3360
 ```
+
+# скрипт запуска `matlab.sh` (рекомендуется разместить в домашней директории)
+
+```bash
+#!/usr/bin/env bash
+
+sudo wg-quick up vpn3360
+cd /usr/local/MATLAB/R2021a/bin
+./matlab
+sudo wg-quick down vpn3360
+```
