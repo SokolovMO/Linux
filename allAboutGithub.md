@@ -89,7 +89,7 @@ git add text1.txt test2.txt
 ** всех файлов
 
 ```bash
-git add -A
+git add .
 ```
 
 * делаем коммит
