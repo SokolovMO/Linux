@@ -421,18 +421,26 @@ sudo apt-get install hunspell-ru
 sudo apt install cheese
 ```
 
-# отсюда рекомендуется качать телегу
+# качаем и устанавливаем .deb - файлы
+
+* далее при скачивании файлов нажимаем ПКМ в папке загрузки и выбираем `Открыть в терминале` и вбиваем
+
+```bash
+sudo dpkg -i <имя файла с разширением .deb>
+```
+
+## отсюда рекомендуется качать телегу
 
 [ссылка на сайт](https://desktop.telegram.org/?setln=ru)
 
-# отсюда рекомендуется качать VS Code
+## отсюда рекомендуется качать VS Code
 
 [ссылка на сайт - выбираем .deb](https://code.visualstudio.com/download)
 
-# тут можно качнуть GUI-версию github-desktop
+## тут можно качнуть GUI-версию github-desktop
 [ссылка на реп - выбираем .deb](https://github.com/shiftkey/desktop/releases)
 
-# тут можно качнуть discord
+## тут можно качнуть discord
 [ссылка на сайт - выбираем .deb](https://discord.com/download)
 
 # расширения
