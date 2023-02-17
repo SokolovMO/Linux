@@ -55,6 +55,94 @@ cd ~
 ```
 
 ```bash
+sudo apt install ros-noetic-base-local-planner
+```
+
+```bash
+sudo apt install ros-noetic-gazebo-ros-control
+```
+
+```bash
+sudo apt install ros-noetic-costmap-converter
+```
+
+```bash
+sudo apt install ros-noetic-libg2o
+```
+
+```bash
+sudo apt install ros-noetic-global-planner
+```
+
+```bash
+sudo apt install ros-noetic-controller-interface
+```
+
+```bash
+sudo apt install ros-noetic-realtime-tools
+```
+
+```bash
+sudo apt install ros-noetic-urdf
+```
+
+```bash
+sudo apt install ros-noetic-tf-conversions
+```
+
+```bash
+sudo apt install ros-noetic-mbf-costmap-core
+```
+
+```bash
+sudo apt install ros-noetic-mbf-msgs
+```
+
+```bash
+sudo apt install ros-noetic-tf2-eigen
+```
+
+```bash
+sudo apt install ros-noetic-compressed-image-transport
+```
+
+```bash
+sudo apt install ros-noetic-interactive-markers
+```
+
+```bash
+sudo apt install ros-noetic-camera-info-manager
+```
+
+```bash
+sudo apt install ros-noetic-roslint
+```
+
+```bash
+sudo apt install ros-noetic-image-view
+```
+
+```bash
+sudo apt install ros-noetic-pointcloud-to-laserscan
+```
+
+```bash
+sudo apt install ros-noetic-usb-cam
+```
+
+```bash
+sudo apt install ros-noetic-stereo-image-proc
+```
+
+```bash
+sudo apt install ros-noetic-teb-local-planner
+```
+
+```bash
+sudo apt install ros-noetic-hector-slam
+```
+
+```bash
 sudo apt install ros-noetic-dwa-local-planner
 ```
 
@@ -71,19 +159,27 @@ sudo apt install ros-noetic-gmapping
 ```
 
 ```bash
-sudo apt-get install ros-noetic-map-server
+sudo apt install ros-noetic-map-server
 ```
 
 ```bash
-sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
+sudo apt install ros-noetic-ros-control
 ```
 
 ```bash
-sudo apt-get install ros-noetic-joy
+sudo apt install ros-noetic-ros-controllers
 ```
 
 ```bash
-sudo apt-get install libspnav-dev
+sudo apt install ros-noetic-joy
+```
+
+```bash
+sudo apt install libspnav-dev
+```
+
+```bash
+sudo apt install libsuitesparse-dev
 ```
 
 ```bash

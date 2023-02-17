@@ -279,6 +279,12 @@ sudo apt install net-tools
 sudo apt update && sudo apt upgrade
 ```
 
+# установка unrar
+
+```bash
+sudo apt-get install unrar
+```
+
 # расширенные настройки системы
 
 ```bash
