@@ -71,7 +71,17 @@ cd /usr/local/MATLAB/R2021a/bin
 sudo wg-quick down vpn3360
 ```
 
-# скрипт запуска `matlab.sh` (рекомендуется разместить в домашней директории)
+# создадим скрипт запуска `matlab.sh`
+
+```bash
+cd /usr/local/MATLAB/R2021a
+```
+
+```bash
+sudo gedit matlab.sh
+```
+
+* заполняем файл
 
 ```bash
 #!/usr/bin/env bash
@@ -82,8 +92,47 @@ cd /usr/local/MATLAB/R2021a/bin
 sudo wg-quick down vpn3360
 ```
 
-* не забываем сделать
+* не забываем сделать его исполняемым
 
 ```bash
-chmod +x matlab.sh
+sudo chmod +x matlab.sh
 ```
+
+# создадим ярлык
+
+```bash
+cd /usr/share/applications/
+```
+
+```bash
+sudo gedit matlab.desktop
+```
+
+* заполним файл
+
+```bash
+[Desktop Entry]
+Name=Matlab
+Comment=
+GenericName=
+Keywords=matlab
+Exec=sh /usr/local/MATLAB/R2021a/matlab.sh
+Terminal=true
+Type=Application
+Icon=/usr/local/MATLAB/R2021a/534px-Matlab_Logo.png
+Path=
+Categories=
+NoDisplay=false
+```
+
+* качаем логотип для отображения
+
+```bash
+cd /usr/local/MATLAB/R2021a
+```
+
+```bash
+sudo wget https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png
+```
+
+* готово! перезагружаем комп и наблюдаем иконку в меню
