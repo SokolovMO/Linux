@@ -125,7 +125,7 @@ Categories=
 NoDisplay=false
 ```
 
-* качаем логотип для отображения
+* скачаем логотип для иконки
 
 ```bash
 cd /usr/local/MATLAB/R2021a
