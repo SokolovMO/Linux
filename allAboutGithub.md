@@ -103,3 +103,5 @@ git commit -m 'your text'
 ```bash
 git push
 ```
+
+[индус рассказывает о защите веток](https://www.youtube.com/watch?v=rYwwz1b2Nss)
