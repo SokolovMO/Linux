@@ -633,10 +633,6 @@ systemctl status touchegg.service && systemctl start touchegg.service
 </p>
 
 <p align="center">
-<img src="screenshots/extra_settings/2.png" width="600">
-</p>
-
-<p align="center">
 <img src="screenshots/extra_settings/3.png" width="600">
 </p>
 
