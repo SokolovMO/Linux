@@ -574,7 +574,91 @@ systemctl status touchegg.service && systemctl start touchegg.service
 <img src="screenshots/dashToDock/2.png" width="600">
 </p>
 
-* после этого удаляем расширение т.к. оно глючное и перезапускаем комп, у нас остается только красота
+* после этого удаляем расширение т.к. оно глючное и перезапускаем комп, у нас остается только цветные панельки
+
+# главные настройки системы
+
+<p align="center">
+<img src="screenshots/main_settings/1.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/2.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/3.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/4.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/5.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/6.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/7.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/8.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/9.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/10.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/11.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/main_settings/12.png" width="600">
+</p>
+
+# дополнительные настройки системы
+
+<p align="center">
+<img src="screenshots/extra_settings/1.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/2.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/3.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/4.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/5.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/6.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/7.png" width="600">
+</p>
+
+<p align="center">
+<img src="screenshots/extra_settings/8.png" width="600">
+</p>
 
 # включение гибернации в linux
 
