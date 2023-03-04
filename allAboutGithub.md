@@ -13,6 +13,10 @@ sudo apt install git
 ```
 
 ```bash
+sudo apt install git-lfs
+```
+
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
