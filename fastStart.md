@@ -106,7 +106,30 @@ rm -r fonts
 ```
 
 ```bash
+~/.oh-my-zsh/custom/plugins
+```
+
+```bash
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+
+```bash
+cd ~
+```
+
+```bash
 sudo apt update && sudo apt upgrade
+```
+
+## плагины
+
+```sh
+plugins=(
+    git
+    zsh-autosuggestions
+    dirhistory
+    history
+)
 ```
 
 # установка ROS
