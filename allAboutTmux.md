@@ -1,9 +1,3 @@
-# установка tmux
-
-```bash
-sudo apt install tmux
-```
-
 # создаем конфиг-файл
 
 ```bash

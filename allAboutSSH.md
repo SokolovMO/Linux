@@ -1,21 +1,3 @@
-# установка ssh
-
-```bash
-sudo apt-get install ssh
-```
-
-```bash
-sudo apt install openssh-server
-```
-
-```bash
-sudo apt install net-tools
-```
-
-```bash
-sudo apt update && sudo apt upgrade
-```
-
 # турбо-команды
 
 * создание пары публичный ключ-приватный ключ
