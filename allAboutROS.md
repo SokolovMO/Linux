@@ -122,4 +122,104 @@ rosrun rqt_reconfigure rqt_reconfigure
 
 # настройка realsence
 
+## установка SDK
+
+[источник](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md#installing-the-packages)
+
+```bash
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key F6E65AC044F831AC80A06380C8B3A55A6F3EFCDE || sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-key F6E65AC044F831AC80A06380C8B3A55A6F3EFCDE
+```
+
+```bash
+sudo add-apt-repository "deb https://librealsense.intel.com/Debian/apt-repo $(lsb_release -cs) main" -u
+```
+
+```bash
+sudo apt-get install librealsense2-dkms
+```
+
+```bash
+sudo apt-get install librealsense2-utils
+```
+
+```bash
+sudo apt-get install librealsense2-dev
+```
+
+```bash
+sudo apt-get install librealsense2-dbg
+```
+
+## установка пакета
+
+[источник](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy)
+
+```bash
+cd ~/catkin_ws/src/
+```
+
+```bash
+git clone https://github.com/IntelRealSense/realsense-ros.git
+```
+
+```bash
+cd realsense-ros/
+```
+
+```bash
+git checkout `git tag | sort -V | grep -P "^2.\d+\.\d+" | tail -1`
+```
+
 # настройка YDLidar
+
+## установка SDK
+
+```bash
+cd ~
+```
+
+```bash
+wget https://www.ydlidar.com/dowfile.html\?cid\=6\&type\=4
+```
+
+```bash
+unzip dowfile.html\?cid=6\&type=4
+```
+
+```bash
+mv YDLidar-SDK-master YDLidar-SDK
+```
+
+```bash
+cd YDLidar-SDK/build
+```
+
+```bash
+cmake ..
+```
+
+```bash
+make
+```
+
+```bash
+sudo make install
+```
+
+## установка пакета
+
+```bash
+cd ~/catkin_ws/src/
+```
+
+```bash
+git clone https://github.com/YDLIDAR/ydlidar_ros_driver.git
+```
+
+```bash
+chmod 0777 ydlidar_ros_driver/startup/*
+```
+
+```bash
+sudo sh ydlidar_ros_driver/startup/initenv.sh
+```

@@ -321,6 +321,10 @@ sudo apt install libsuitesparse-dev
 ```
 
 ```bash
+sudo apt install ros-noetic-imu-tools
+```
+
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
