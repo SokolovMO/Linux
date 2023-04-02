@@ -14,7 +14,7 @@
 
 # [!!! если слетел загрузчик винды по этому видосу его восстанавливаем](https://www.youtube.com/watch?v=KWsFAyluJ0U&list=LL&index=7)
 
-# установка русского языка (если он не установился)
+# русский язык (если он не установился)
 
 ```bash
 cd ~
@@ -38,7 +38,7 @@ sudo update-locale LANG=ru_RU.UTF-8
 
 * перезагружаем кампуктер
 
-# установка драйверов для карт NVIDIA
+# драйвера карт NVIDIA
 
 ```bash
 sudo apt install nvidia-driver-515 nvidia-dkms-515
@@ -46,7 +46,7 @@ sudo apt install nvidia-driver-515 nvidia-dkms-515
 
 * далее перезагружаем комп и при запуске соглашаемся с переименованием папок и проверяем, что драйвер запустился командой `nvidia-smi`
 
-# установка git
+# git
 
 ```bash
 cd ~
@@ -68,7 +68,7 @@ sudo apt install git-lfs
 sudo apt update && sudo apt upgrade
 ```
 
-# установка ohmyzsh
+# ohmyzsh
 
 ```bash
 cd ~
@@ -121,7 +121,7 @@ cd ~
 sudo apt update && sudo apt upgrade
 ```
 
-## плагины
+## консольные плагины
 
 ```sh
 plugins=(
@@ -132,7 +132,7 @@ plugins=(
 )
 ```
 
-# установка ROS
+# ROS
 
 ```bash
 cd ~
@@ -186,7 +186,7 @@ sudo apt install python3-catkin-tools
 sudo apt update && sudo apt upgrade
 ```
 
-## установка нужных пакетов для ROS
+## нужные пакеты для ROS
 
 ```bash
 cd ~
@@ -228,7 +228,7 @@ sudo apt-get install libspnav-dev
 sudo apt update && sudo apt upgrade
 ```
 
-## установка turtle-bot (пакеты для catkin_ws)
+## turtle-bot (пакеты для catkin_ws)
 
 ```bash
 cd ~
@@ -274,7 +274,7 @@ echo "source ~/catkin_ws/devel/setup.zsh" >> ~/.zshrc
 sudo apt update && sudo apt upgrade
 ```
 
-# установка nautilus (открывать папки и файлы как админ)
+# nautilus (админский доступ к системным папкам-файлам)
 
 ```bash
 sudo apt install -y nautilus-admin
@@ -288,7 +288,7 @@ nautilus -q
 sudo apt update && sudo apt upgrade
 ```
 
-# установка ssh
+# ssh
 
 ```bash
 sudo apt-get install ssh
@@ -306,7 +306,7 @@ sudo apt install net-tools
 sudo apt update && sudo apt upgrade
 ```
 
-# установка unrar
+# утилита unrar
 
 ```bash
 sudo apt-get install unrar
@@ -318,7 +318,7 @@ sudo apt-get install unrar
 sudo apt-get install gnome-tweaks
 ```
 
-# установка speedtest
+# speedtest
 
 ```bash
 sudo apt-get install python3-pip
@@ -336,7 +336,7 @@ speedtest
 sudo apt update && sudo apt upgrade
 ```
 
-# установка cmatrix
+# cmatrix
 
 ```bash
 sudo apt install cmatrix
@@ -350,7 +350,7 @@ cmatrix
 sudo apt update && sudo apt upgrade
 ```
 
-# делу час - потехе время!
+# steam
 
 ```bash
 sudo apt install steam
@@ -432,13 +432,13 @@ sudo apt install totem
 sudo apt install libreoffice-gnome libreoffice
 ```
 
-## установка TNR
+# установка TimesNewRoman
 
 ```bash
 sudo apt-get install ttf-mscorefonts-installer
 ```
 
-## русский язык и орфография
+# русский язык и орфография
 
 ```bash
 sudo apt-get install libreoffice-l10n-ru libreoffice-help-ru
@@ -448,13 +448,13 @@ sudo apt-get install libreoffice-l10n-ru libreoffice-help-ru
 sudo apt-get install hunspell-ru
 ```
 
-## вебкамера
+# вебкамера
 
 ```bash
 sudo apt install cheese
 ```
 
-## VLC
+# VLC
 
 ```bash
 sudo apt update && sudo apt upgrade -y
