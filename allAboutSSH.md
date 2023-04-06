@@ -38,8 +38,12 @@ scp -r USER@IP:/FULL_DIRECTORY_NAME_SERVER FULL_DIRECTORY_NAME_PC
 
 [ссылка на статью](https://itsecforu.ru/2019/05/06/%F0%9F%90%A7-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B0%D0%BB%D0%B8%D0%B0%D1%81-ssh-%D0%B2-linux/)
 
-формат  
+```bash
+cd ~./ssh/config
+```
 
-`Host home-pc`  
-`Hostname 192.168.1.XX`  
-`User nikita`  
+```bash
+Host home-pc
+    Hostname 192.168.1.XX
+    User nikita
+```
